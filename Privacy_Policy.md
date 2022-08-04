@@ -86,7 +86,7 @@ actions.
 
 The only official channel for distribution of this app are:
 * [Google Play Store](https://play.google.com/)
-* [itch.io](itch.io)
+* [itch.io](https://itch.io/)
 
 Any other mode of distribution is not official and thus, is not maintained by the developer.
 This privacy policy is effective to distribution made on official channel only.
